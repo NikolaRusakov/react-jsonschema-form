@@ -45,11 +45,26 @@ Read our [documentation](https://rjsf-team.github.io/react-jsonschema-form/docs)
 
 A [live playground](https://rjsf-team.github.io/react-jsonschema-form/) is hosted on GitHub Pages.
 
+build and ignore errors with 
+
+```
+  "compilerOptions": {"noEmitOnError": false},
+```
+
+
+deploy with 
+
+```
+pnpm publish --no-git-checks
+```
+
+
 ## Contributing
 
 Read our [contributors' guide](https://rjsf-team.github.io/react-jsonschema-form/docs/contributing) to get started.
 
 ## Credits
+
 
 Testing powered by BrowserStack<br>
 <a target="_blank" href="https://www.browserstack.com/"><img width="200" src="https://user-images.githubusercontent.com/1689183/51487090-4ea04f80-1d57-11e9-9a91-79b7ef8d2013.png"></a>

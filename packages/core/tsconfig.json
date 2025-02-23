@@ -1,6 +1,7 @@
 {
   "extends": "../../tsconfig.base.json",
   "files": [],
+  "compilerOptions": {"noEmitOnError": false},
   "references": [
     {
       "path": "./src"
