@@ -51,10 +51,16 @@ build and ignore errors with
   "compilerOptions": {"noEmitOnError": false},
 ```
 
+build each - utils,core
+
+```
+pnpm build 
+```
 
 deploy with 
 
 ```
+pnpm unpublish --force
 pnpm publish --no-git-checks
 ```
 
