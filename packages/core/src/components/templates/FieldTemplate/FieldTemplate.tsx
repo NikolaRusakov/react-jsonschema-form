@@ -5,7 +5,7 @@ import {
   StrictRJSFSchema,
   getTemplate,
   getUiOptions,
-} from '@rjsf/utils';
+} from '@doto-solutions/rjsf-utils';
 
 import Label from './Label';
 

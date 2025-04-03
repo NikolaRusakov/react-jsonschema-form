@@ -1,4 +1,4 @@
-import { FormContextType, TitleFieldProps, RJSFSchema, StrictRJSFSchema } from '@rjsf/utils';
+import { FormContextType, TitleFieldProps, RJSFSchema, StrictRJSFSchema } from '@doto-solutions/rjsf-utils';
 
 const REQUIRED_FIELD_SYMBOL = '*';
 

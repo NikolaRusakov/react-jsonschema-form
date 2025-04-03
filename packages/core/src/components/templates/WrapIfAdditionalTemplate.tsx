@@ -5,7 +5,7 @@ import {
   StrictRJSFSchema,
   TranslatableString,
   WrapIfAdditionalTemplateProps,
-} from '@rjsf/utils';
+} from '@doto-solutions/rjsf-utils';
 
 import Label from './FieldTemplate/Label';
 

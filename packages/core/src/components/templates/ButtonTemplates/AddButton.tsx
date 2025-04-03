@@ -1,4 +1,10 @@
-import { FormContextType, IconButtonProps, RJSFSchema, StrictRJSFSchema, TranslatableString } from '@rjsf/utils';
+import {
+  FormContextType,
+  IconButtonProps,
+  RJSFSchema,
+  StrictRJSFSchema,
+  TranslatableString,
+} from '@doto-solutions/rjsf-utils';
 
 import IconButton from './IconButton';
 

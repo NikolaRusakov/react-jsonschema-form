@@ -37,7 +37,7 @@ import {
   Experimental_CustomMergeAllOf,
   createErrorHandler,
   unwrapErrorHandler,
-} from '@rjsf/utils';
+} from '@doto-solutions/rjsf-utils';
 import _forEach from 'lodash/forEach';
 import _get from 'lodash/get';
 import _isEmpty from 'lodash/isEmpty';

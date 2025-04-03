@@ -16,7 +16,7 @@ import {
   REF_KEY,
   ANY_OF_KEY,
   ONE_OF_KEY,
-} from '@rjsf/utils';
+} from '@doto-solutions/rjsf-utils';
 import Markdown from 'markdown-to-jsx';
 import get from 'lodash/get';
 import has from 'lodash/has';
